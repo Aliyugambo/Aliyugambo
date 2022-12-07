@@ -19,10 +19,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
+- 🌱 I’m currently learning JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing gamboaliyu00@gmail.com.
+- 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer(Intern or Junior level).
+- 📫 You can [view my resume]([#](https://drive.google.com/file/d/117fcOYLb7ohiNV4sHDOmdi_f9aEVuq7U/view?usp=share_link)) and contact me by emailing gamboaliyu00@gmail.com.
 
 ---
 
