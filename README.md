@@ -18,7 +18,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also at HyperVerge Academy [School of Software Engineering](https://academy.hyperverge.org/) Class of 2023.
 - 🌱 I’m currently learning JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer(Intern or Junior level).
