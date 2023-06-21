@@ -22,7 +22,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I’m currently learning JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer(Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/117fcOYLb7ohiNV4sHDOmdi_f9aEVuq7U/view?usp=share_link) and contact me by emailing gamboaliyu00@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1FU8VYYPu3ibo2rKiFx4u1Qk5e_O2FZQP/view?usp=sharing) and contact me by emailing gamboaliyu00@gmail.com.
 
 ---
 
