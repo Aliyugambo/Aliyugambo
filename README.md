@@ -18,9 +18,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also at [HyperVerge Academy](https://academy.hyperverge.org/) Class of 2023.
-- 🌱 I’m currently learning JavaScript and Nodejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: Currently a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023 and also at [HyperVerge Academy](https://academy.hyperverge.org/) Class of 2023.
+- 🌱My expertise is in creating visually appealing web pages and providing an outstanding user experience. A recent graduate of AltSchool Africa [School of Software      Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023 and also at [HyperVerge Academy](https://academy.hyperverge.org/) Class of 2023 with a bachelor's degree in Computer Science. I am dedicated to producing clean, maintainable code. I am excited to offer my expertise and skills to the team and further my development as a developer.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1FU8VYYPu3ibo2rKiFx4u1Qk5e_O2FZQP/view?usp=sharing) and contact me by emailing gamboaliyu00@gmail.com.
 
