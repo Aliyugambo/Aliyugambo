@@ -18,9 +18,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 My expertise is in creating visually appealing web pages/API and providing an outstanding user experience. I am dedicated to producing clean, maintainable code.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer(Intern or Junior level).
+- My specialization lies in crafting robust and efficient APIs that seamlessly integrate with visually captivating web pages, ensuring an exceptional user experience. I am deeply committed to developing backend solutions that are not only clean and      efficient but also easily maintainable over time
+- 😊 I’m open to working on open-source projects, entry-level opportunities.
+- 💼 Job interests: Front Engineer, Backend Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://flowcv.com/resume/s54i47r187) and contact me by emailing gamboaliyu00@gmail.com.
 
 ---
