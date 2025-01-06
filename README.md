@@ -19,9 +19,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 😊 Pronouns: He/him
 - My specialization lies in crafting robust and efficient APIs that seamlessly integrate with visually captivating web pages, ensuring an exceptional user experience. I am deeply committed to developing backend solutions that are not only clean and      efficient but also easily maintainable over time
-- 😊 I’m open to working on open-source projects, entry-level opportunities.
-- 💼 Job interests: Front Engineer, Backend Engineer(Intern or Junior level).
-- 📫 You can [view my resume](https://flowcv.com/resume/s54i47r187) and contact me by emailing gamboaliyu00@gmail.com.
+- 😊 I’m open to working on open-source projects, entry-level opportunities, intermediate level.
+- 💼 Job interests: FullStack Development, Backend Engineer(Intern or Junior level).
+- 📫 You can [view my resume](https://flowcv.com/resume/9n0j6s2i1n) and contact me by emailing gamboaliyu00@gmail.com.
 
 ---
 
